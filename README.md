@@ -14,7 +14,7 @@ Welcome to the AI-Lab series! This README file serves as a comprehensive guide t
 In this lab, you will get familiar with **NumPy** and **Pandas**, two essential libraries for data manipulation and analysis in Python. The lab will introduce you to basic functionalities and how to use these libraries for handling data.
 
 - **Objective**: Understand the fundamentals of NumPy and Pandas and how to apply them to data handling and analysis.
-- **Prerequisites**: Basic knowledge of Python programming. Ensure NumPy and Pandas are installed in your Python environment.
+- **Prerequisites**: Basic knowledge of Python programming. ✨
 
 ### Instructions
 1. Open the Colab notebook linked below.
