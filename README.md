@@ -13,7 +13,7 @@
 ## Introduction
 Welcome to the AI-Lab series! This README file serves as a comprehensive guide to the labs in this series. Each lab is designed to build your skills in AI, starting from the basics and moving to more advanced topics.
 
-## Lab 1: Getting Started with NumPy and Pandas
+## Lab 1: The Python Library Testing
 
 In this lab, you will get familiar with **NumPy** and **Pandas**, two essential libraries for data manipulation and analysis in Python. The lab will introduce you to basic functionalities and how to use these libraries for handling data.
 
