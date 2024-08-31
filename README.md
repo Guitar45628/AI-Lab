@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Lab 1: Getting Started with NumPy and Pandas](#lab-1-the-library-python-testing)
+2. [Lab 1: The Python Library Testing](#lab-1-the-python-library-testing)
 3. [Lab 2: Data Preprocessing](#lab-2-data-preprocessing)
 4. [Lab 3: Data Analysis and Statistical Testing](#lab-3-data-analysis-and-statistical-testing)
 5. [Lab 4: Model Testing for Artificial Intelligence](#lab-4-model-testing-for-artificial-intelligence)
