@@ -5,7 +5,9 @@
 2. [Lab 1: Getting Started with NumPy and Pandas](#lab-1-getting-started-with-numpy-and-pandas)
 3. [Lab 2: Data Preprocessing](#lab-2-data-preprocessing)
 4. [Lab 3: Data Analysis and Statistical Testing](#lab-3-data-analysis-and-statistical-testing)
+5. [Lab 4: Model Testing for Artificial Intelligence](#lab-4-model-testing-for-artificial-intelligence)
 ---
+
 
 ## Introduction
 Welcome to the AI-Lab series! This README file serves as a comprehensive guide to the labs in this series. Each lab is designed to build your skills in AI, starting from the basics and moving to more advanced topics.
@@ -130,3 +132,31 @@ In this lab, you will focus on various data analysis techniques and statistical 
 By the end of this lab, you should be proficient in data analysis techniques and statistical testing, allowing you to derive meaningful insights and validate hypotheses about your dataset.
 
 - **[Open Lab 3 Notebook](https://colab.research.google.com/drive/1ycI7f-URPtf1uzEfevqG0FHlgKIC4ebx?usp=sharing)**
+- 
+## Lab 4: Model Testing for Artificial Intelligence
+
+In this lab, you will test different machine learning models using performance metrics to evaluate their effectiveness. The focus will be on testing a regression model using the R-squared metric and a classification model using accuracy.
+
+- **Objective**: Learn how to evaluate machine learning models using appropriate metrics for regression and classification tasks.
+- **Prerequisites**: Completion of Lab 1, Lab 2, and Lab 3 or equivalent knowledge.
+
+### Instructions
+1. Open the Colab notebook linked below.
+2. Download and upload the required file (`IMI_Dataset.csv`) to the Colab environment.
+3. Follow the instructions in the notebook to complete the exercises:
+   - **Testing Regression Models**: Evaluate a regression model using the R-squared value.
+   - **Testing Classification Models**: Assess a classification model using accuracy.
+
+### Key Concepts
+- **R-squared Metric**: Measures the proportion of variance in the dependent variable that is predictable from the independent variables. Useful for evaluating regression models.
+- **Accuracy Metric**: Indicates the proportion of correct predictions made by the classification model. Useful for evaluating classification models.
+
+#### Files to Download
+- [IMI_Dataset.csv](https://colab.research.google.com/drive/1ycI7f-URPtf1uzEfevqG0FHlgKIC4ebx?usp=sharing)
+
+#### Expected Outcome
+By the end of this lab, you should be able to evaluate machine learning models using appropriate metrics and understand their effectiveness in making predictions.
+
+- **[Open Lab 4 Notebook](https://colab.research.google.com/drive/1ycI7f-URPtf1uzEfevqG0FHlgKIC4ebx?usp=sharing)**
+
+
