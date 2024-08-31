@@ -13,7 +13,7 @@
 ## Introduction
 Welcome to the AI-Lab series! This README file serves as a comprehensive guide to the labs in this series. Each lab is designed to build your skills in AI, starting from the basics and moving to more advanced topics.
 
-## Lab 1: The Python Library Testing
+## Lab 1: The Python Library Testing 🥰
 
 In this lab, you will get familiar with **NumPy** and **Pandas**, two essential libraries for data manipulation and analysis in Python. The lab will introduce you to basic functionalities and how to use these libraries for handling data.
 
@@ -37,7 +37,7 @@ By the end of this lab, you should be comfortable with the basics of NumPy and P
 
 Feel free to explore the Colab notebook for interactive exercises and examples. Happy learning!
 
-## Lab 2: Data Preprocessing
+## Lab 2: Data Preprocessing 😎
 
 In this combined lab, you will cover essential data preprocessing techniques using Pandas, as well as advanced preprocessing methods such as normalization and feature engineering.
 
@@ -61,8 +61,8 @@ In this part, you will learn the basics of data preprocessing using Pandas. This
 - **Categorical Data Encoding**: Converting categorical data into numerical formats for analysis.
 
 #### Files to Download
-- [IMI_Dataset.csv](link-to-IMI_Dataset.csv)
-- [dataset_missing_value.csv](link-to-dataset_missing_value.csv)
+- [IMI_Dataset.csv](https://github.com/Guitar45628/AI-Lab/blob/main/IMI_Dataset.csv)
+- [dataset_missing_value.csv](https://github.com/Guitar45628/AI-Lab/blob/main/dataset_missing_value.csv)
 
 #### Expected Outcome
 By the end of this part, you should be proficient in basic data preprocessing techniques and ready to apply these skills to prepare data for further analysis and modeling.
@@ -90,7 +90,7 @@ In this part, you will explore advanced preprocessing techniques, including norm
   - **Image Features**: Extracting and processing features from image data.
 
 #### Files to Download
-- [IMI_Dataset.csv](https://colab.research.google.com/drive/179uz7UA5vlZ47P7SHnZUeYHm-1yEHAy5?usp=sharing)
+- [IMI_Dataset.csv](https://github.com/Guitar45628/AI-Lab/blob/main/IMI_Dataset.csv)
 
 #### Expected Outcome
 By the end of this part, you should be proficient in normalizing datasets and engineering features for various data types, preparing you for more advanced data analysis and machine learning tasks.
@@ -127,7 +127,7 @@ In this lab, you will focus on various data analysis techniques and statistical 
 - **Built-in Feature Selection**: Identifying the most important features using Scikit-learn's `SelectKBest`.
 
 #### Files to Download
-- [IMI_Dataset.csv](https://colab.research.google.com/drive/1ycI7f-URPtf1uzEfevqG0FHlgKIC4ebx?usp=sharing)
+- [IMI_Dataset.csv](https://github.com/Guitar45628/AI-Lab/blob/main/IMI_Dataset.csv)
 
 #### Expected Outcome
 By the end of this lab, you should be proficient in data analysis techniques and statistical testing, allowing you to derive meaningful insights and validate hypotheses about your dataset.
@@ -161,7 +161,7 @@ In this lab, you will test different machine learning models using performance m
 #### Expected Outcome
 By the end of this lab, you should be able to test and evaluate machine learning models effectively using appropriate performance metrics.
 
-- **[Open Lab 4 Notebook](https://colab.research.google.com/drive/1c8C--4K2PBzvnFj6RYbG5WwxEpG3woeo?usp=sharing)**
+- **[Open Lab 4 Notebook](https://colab.research.google.com/drive/1uDNfocAJ-jhEZc4IdHRuHs8cX2iRVb9C?usp=sharing)**
 
 ## Lab 5: Programming for Problem Solving and Decision-Making
 
@@ -194,7 +194,7 @@ In this lab, you will build and evaluate classification models to predict heart 
 - **Naïve Bayes**
 
 #### Files to Download
-- [IMI_Dataset.csv](https://colab.research.google.com/drive/1rmROOn6do9GY7UMmgb4h9K4xBlkJOXNk?usp=sharing)
+- [IMI_Dataset.csv](https://colab.research.google.com/drive/1c8C--4K2PBzvnFj6RYbG5WwxEpG3woeo?usp=sharing)
 
 #### Expected Outcome
 By the end of this lab, you should be proficient in building and evaluating classification models for heart disease prediction.
