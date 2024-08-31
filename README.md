@@ -99,7 +99,7 @@ By the end of this part, you should be proficient in normalizing datasets and en
 
 Dive into the Colab notebook for practical exercises and enhance your feature engineering skills. Enjoy exploring advanced data preprocessing techniques!
 
-## Lab 3: Data Analysis and Statistical Testing
+## Lab 3: Data Analysis and Statistical Testing😀
 
 In this lab, you will focus on various data analysis techniques and statistical tests to understand your dataset better. This includes analyzing central tendency, variability, data shape, and performing statistical tests such as Pearson correlation, T-Test, and ANOVA.
 
@@ -134,7 +134,7 @@ By the end of this lab, you should be proficient in data analysis techniques and
 
 - **[Open Lab 3 Notebook](https://colab.research.google.com/drive/1ycI7f-URPtf1uzEfevqG0FHlgKIC4ebx?usp=sharing)**
 
-## Lab 4: Model Testing for Artificial Intelligence
+## Lab 4: Model Testing for Artificial Intelligence😉
 
 In this lab, you will test different machine learning models using performance metrics to evaluate their effectiveness. The focus will be on testing a regression model using the R-squared metric and a classification model using accuracy.
 
@@ -163,7 +163,7 @@ By the end of this lab, you should be able to test and evaluate machine learning
 
 - **[Open Lab 4 Notebook](https://colab.research.google.com/drive/1uDNfocAJ-jhEZc4IdHRuHs8cX2iRVb9C?usp=sharing)**
 
-## Lab 5: Programming for Problem Solving and Decision-Making
+## Lab 5: Programming for Problem Solving and Decision-Making🙂
 
 In this lab, you will build and evaluate classification models to predict heart disease. The focus will be on preprocessing the data, analyzing it using descriptive statistics, selecting and training models, and testing their performance.
 
