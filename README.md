@@ -6,8 +6,9 @@
 3. [Lab 2: Data Preprocessing](#lab-2-data-preprocessing)
 4. [Lab 3: Data Analysis and Statistical Testing](#lab-3-data-analysis-and-statistical-testing)
 5. [Lab 4: Model Testing for Artificial Intelligence](#lab-4-model-testing-for-artificial-intelligence)
----
+6. [Lab 5: Programming for Problem Solving and Decision-Making](#lab-5-programming-for-problem-solving-and-decision-making)
 
+---
 
 ## Introduction
 Welcome to the AI-Lab series! This README file serves as a comprehensive guide to the labs in this series. Each lab is designed to build your skills in AI, starting from the basics and moving to more advanced topics.
@@ -132,7 +133,7 @@ In this lab, you will focus on various data analysis techniques and statistical 
 By the end of this lab, you should be proficient in data analysis techniques and statistical testing, allowing you to derive meaningful insights and validate hypotheses about your dataset.
 
 - **[Open Lab 3 Notebook](https://colab.research.google.com/drive/1ycI7f-URPtf1uzEfevqG0FHlgKIC4ebx?usp=sharing)**
-- 
+
 ## Lab 4: Model Testing for Artificial Intelligence
 
 In this lab, you will test different machine learning models using performance metrics to evaluate their effectiveness. The focus will be on testing a regression model using the R-squared metric and a classification model using accuracy.
@@ -144,19 +145,62 @@ In this lab, you will test different machine learning models using performance m
 1. Open the Colab notebook linked below.
 2. Download and upload the required file (`IMI_Dataset.csv`) to the Colab environment.
 3. Follow the instructions in the notebook to complete the exercises:
-   - **Testing Regression Models**: Evaluate a regression model using the R-squared value.
-   - **Testing Classification Models**: Assess a classification model using accuracy.
+   - **Testing Regression Models**: Evaluate a regression model using the R-squared metric.
+   - **Testing Classification Models**: Evaluate a classification model using accuracy and confusion matrix.
+   - **Performance Metrics**: Use metrics to compare model performance and determine the best model for your dataset.
 
 ### Key Concepts
-- **R-squared Metric**: Measures the proportion of variance in the dependent variable that is predictable from the independent variables. Useful for evaluating regression models.
-- **Accuracy Metric**: Indicates the proportion of correct predictions made by the classification model. Useful for evaluating classification models.
+- **R-Squared**: A metric for assessing the goodness of fit of a regression model.
+- **Accuracy**: A metric for evaluating the performance of classification models.
+- **Confusion Matrix**: A table used to describe the performance of a classification model.
+- **Performance Comparison**: Techniques for comparing the performance of different models using metrics.
 
 #### Files to Download
-- [IMI_Dataset.csv](https://colab.research.google.com/drive/1ycI7f-URPtf1uzEfevqG0FHlgKIC4ebx?usp=sharing)
+- [IMI_Dataset.csv](https://colab.research.google.com/drive/1c8C--4K2PBzvnFj6RYbG5WwxEpG3woeo?usp=sharing)
 
 #### Expected Outcome
-By the end of this lab, you should be able to evaluate machine learning models using appropriate metrics and understand their effectiveness in making predictions.
+By the end of this lab, you should be able to test and evaluate machine learning models effectively using appropriate performance metrics.
 
-- **[Open Lab 4 Notebook](https://colab.research.google.com/drive/1ycI7f-URPtf1uzEfevqG0FHlgKIC4ebx?usp=sharing)**
+- **[Open Lab 4 Notebook](https://colab.research.google.com/drive/1c8C--4K2PBzvnFj6RYbG5WwxEpG3woeo?usp=sharing)**
 
+## Lab 5: Programming for Problem Solving and Decision-Making
 
+In this lab, you will build and evaluate classification models to predict heart disease. The focus will be on preprocessing the data, analyzing it using descriptive statistics, selecting and training models, and testing their performance.
+
+- **Objective**: Develop and evaluate classification models to predict heart disease based on the provided dataset.
+- **Prerequisites**: Basic knowledge of machine learning concepts and Python programming.
+
+### Instructions
+1. Open the Colab notebook linked below.
+2. Download and upload the required file (`IMI_Dataset.csv`) to the Colab environment.
+3. Follow the instructions in the notebook to complete the exercises:
+   - **Data Preprocessing**: Clean and prepare the dataset for analysis.
+   - **Data Analysis**: Use descriptive statistics to understand the data better.
+   - **Model Selection and Training**: Choose and train classification models for heart disease prediction.
+   - **Model Testing**: Evaluate the performance of the models using appropriate metrics.
+
+### Key Concepts
+- **Data Preprocessing**: Cleaning and preparing the dataset for analysis.
+- **Descriptive Statistics**: Analyzing the dataset to gain insights into its characteristics.
+- **Model Selection**: Choosing the best classification model for the task.
+- **Model Training**: Training the selected model(s) using the prepared data.
+- **Model Testing**: Evaluating the performance of the model(s) using accuracy and confusion matrix.
+
+#### Models to Use
+- **Decision Tree**
+- **K-Nearest Neighbors (KNN)**
+- **Support Vector Machine (SVM)**
+- **Neural Networks**
+- **Naïve Bayes**
+
+#### Files to Download
+- [IMI_Dataset.csv](https://colab.research.google.com/drive/1rmROOn6do9GY7UMmgb4h9K4xBlkJOXNk?usp=sharing)
+
+#### Expected Outcome
+By the end of this lab, you should be proficient in building and evaluating classification models for heart disease prediction.
+
+- **[Open Lab 5 Notebook](https://colab.research.google.com/drive/1rmROOn6do9GY7UMmgb4h9K4xBlkJOXNk?usp=sharing)**
+
+---
+
+Feel free to open the notebooks linked above to explore each lab's exercises and enhance your programming and data science skills. Happy learning!
