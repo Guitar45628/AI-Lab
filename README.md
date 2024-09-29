@@ -157,7 +157,7 @@ In this lab, you will test different machine learning models using performance m
 - **Performance Comparison**: Techniques for comparing the performance of different models using metrics.
 
 #### Files to Download
-- [IMI_Dataset.csv](https://colab.research.google.com/drive/1c8C--4K2PBzvnFj6RYbG5WwxEpG3woeo?usp=sharing)
+- [IMI_Dataset.csv](https://github.com/Guitar45628/AI-Lab/blob/main/IMI_Dataset.csv)
 
 #### Expected Outcome
 By the end of this lab, you should be able to test and evaluate machine learning models effectively using appropriate performance metrics.
