@@ -3,18 +3,18 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Lab 1: The Python Library Testing](#lab-1-the-python-library-testing)
-3. [Lab 2: Data Preprocessing](#lab-2-data-preprocessing)
+3. [Lab 2: Data Preprocessing](lab-2-data-preprocessing-)
 4. [Lab 3: Data Analysis and Statistical Testing](#lab-3-data-analysis-and-statistical-testing)
 5. [Lab 4: Model Testing for Artificial Intelligence](#lab-4-model-testing-for-artificial-intelligence)
 6. [Lab 5: Programming for Problem Solving and Decision-Making](#lab-5-programming-for-problem-solving-and-decision-making)
-7. [Lab 6: Model Implementation](#lab-6-model-implementation).
+7. [Lab 6: Model Implementation](#lab-6-model-implementation)
 
 ---
 
 ## Introduction
 Welcome to the AI-Lab series! This README file serves as a comprehensive guide to the labs in this series. Each lab is designed to build your skills in AI, starting from the basics and moving to more advanced topics.
 
-## Lab 1: The Python Library Testing 🥰
+## Lab 1: The Python Library Testing🥰
 
 In this lab, you will get familiar with **NumPy** and **Pandas**, two essential libraries for data manipulation and analysis in Python. The lab will introduce you to basic functionalities and how to use these libraries for handling data.
 
@@ -38,7 +38,7 @@ By the end of this lab, you should be comfortable with the basics of NumPy and P
 
 Feel free to explore the Colab notebook for interactive exercises and examples. Happy learning!
 
-## Lab 2: Data Preprocessing 😎
+## Lab 2: Data Preprocessing😎
 
 In this combined lab, you will cover essential data preprocessing techniques using Pandas, as well as advanced preprocessing methods such as normalization and feature engineering.
 
@@ -200,8 +200,6 @@ In this lab, you will build and evaluate classification models to predict heart 
 #### Expected Outcome
 By the end of this lab, you should be proficient in building and evaluating classification models for heart disease prediction.
 
-
-
 - **[Open Lab 5 Notebook](https://colab.research.google.com/drive/1rmROOn6do9GY7UMmgb4h9K4xBlkJOXNk?usp=sharing)**
 
 ---
@@ -232,4 +230,4 @@ In this lab, you will learn how to create and tune a model for predicting heart 
 #### Expected Outcome
 By the end of this lab, you should be proficient in creating, tuning, and evaluating machine learning models for heart disease prediction. Additionally, you will be able to implement a Web UI for user interaction.
 
-- **[Open Lab 5 Notebook](https://colab.research.google.com/drive/1tgYD9AdWlCIa-nefKDqAKWNvtXuynwcy?usp=sharing)**
+- **[Open Lab 6 Notebook](https://colab.research.google.com/drive/1tgYD9AdWlCIa-nefKDqAKWNvtXuynwcy?usp=sharing)**
