@@ -7,6 +7,7 @@
 4. [Lab 3: Data Analysis and Statistical Testing](#lab-3-data-analysis-and-statistical-testing)
 5. [Lab 4: Model Testing for Artificial Intelligence](#lab-4-model-testing-for-artificial-intelligence)
 6. [Lab 5: Programming for Problem Solving and Decision-Making](#lab-5-programming-for-problem-solving-and-decision-making)
+7. [Lab 6: Model Implementation](#lab-6-model-implementation).
 
 ---
 
@@ -194,13 +195,41 @@ In this lab, you will build and evaluate classification models to predict heart 
 - **Naïve Bayes**
 
 #### Files to Download
-- [IMI_Dataset.csv](https://colab.research.google.com/drive/1c8C--4K2PBzvnFj6RYbG5WwxEpG3woeo?usp=sharing)
+- [IMI_Dataset.csv](https://github.com/Guitar45628/AI-Lab/blob/main/IMI_Dataset.csv)
 
 #### Expected Outcome
 By the end of this lab, you should be proficient in building and evaluating classification models for heart disease prediction.
+
+
 
 - **[Open Lab 5 Notebook](https://colab.research.google.com/drive/1rmROOn6do9GY7UMmgb4h9K4xBlkJOXNk?usp=sharing)**
 
 ---
 
 Feel free to open the notebooks linked above to explore each lab's exercises and enhance your programming and data science skills. Happy learning!
+
+## Lab 6: Model Implementation🫶
+
+In this lab, you will learn how to create and tune a model for predicting heart disease, focusing on selecting and adjusting hyperparameters to achieve the best-performing model. Once you have the best model, you will have the opportunity to create a Web UI to allow users to easily make predictions.
+
+- **Objective**: Build and tune a model for predicting heart disease, focusing on hyperparameter tuning to achieve the best model.
+- **Prerequisites**: Basic knowledge of Python, Machine Learning, and using Gradio.
+
+### Instructions
+1. Open the Colab notebook linked below.
+2. Download and upload the necessary file (`IMI_Dataset.csv`) to the Colab environment.
+3. Follow the instructions in the notebook to create and tune the model.
+
+### Key Concepts
+- **Model Building**: Techniques for creating Machine Learning models for heart disease prediction.
+- **Hyperparameter Tuning**: Methods for adjusting various parameters such as the number of layers, number of nodes, and learning rate to improve model performance.
+- **Selecting the Best Model**: Testing multiple models to determine which one performs best on the dataset.
+- **Web UI**: Creating a UI using Gradio to allow users to input data and receive prediction results.
+
+#### Files to Download
+- [IMI_Dataset.csv](https://github.com/Guitar45628/AI-Lab/blob/main/IMI_Dataset.csv)
+
+#### Expected Outcome
+By the end of this lab, you should be proficient in creating, tuning, and evaluating machine learning models for heart disease prediction. Additionally, you will be able to implement a Web UI for user interaction.
+
+- **[Open Lab 5 Notebook](https://colab.research.google.com/drive/1tgYD9AdWlCIa-nefKDqAKWNvtXuynwcy?usp=sharing)**
